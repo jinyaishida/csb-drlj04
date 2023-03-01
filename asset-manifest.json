@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://jinyaishida.github.io/csb-drlj04/static/js/main.191988d5.chunk.js",
+    "main.js.map": "https://jinyaishida.github.io/csb-drlj04/static/js/main.191988d5.chunk.js.map",
+    "runtime-main.js": "https://jinyaishida.github.io/csb-drlj04/static/js/runtime-main.9a2ebb04.js",
+    "runtime-main.js.map": "https://jinyaishida.github.io/csb-drlj04/static/js/runtime-main.9a2ebb04.js.map",
+    "static/js/2.c49a985b.chunk.js": "https://jinyaishida.github.io/csb-drlj04/static/js/2.c49a985b.chunk.js",
+    "static/js/2.c49a985b.chunk.js.map": "https://jinyaishida.github.io/csb-drlj04/static/js/2.c49a985b.chunk.js.map",
+    "index.html": "https://jinyaishida.github.io/csb-drlj04/index.html",
+    "static/js/2.c49a985b.chunk.js.LICENSE.txt": "https://jinyaishida.github.io/csb-drlj04/static/js/2.c49a985b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a2ebb04.js",
+    "static/js/2.c49a985b.chunk.js",
+    "static/js/main.191988d5.chunk.js"
+  ]
+}
